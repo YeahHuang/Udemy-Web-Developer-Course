@@ -1,0 +1,67 @@
+jquery
+
+
+backend - LAMP Stack: Apache Server(PHP) + Database(MySQL)
+backend - Node Server + Database(PostgreSQL/MongoDB)
+
+how to improve transfer speed:
+- location of server
+- how many trips
+- size of files
+
+<strong> 加粗 <em>斜线
+
+<ul> unordered list 
+    <li> </li> 每一个list的名字 
+<ol> ordered list
+
+<br> 换行 
+<hr> 一行白线
+
+<img src="" width="42" height="42">
+
+<a href="">New Page</a>
+
+section 5
+
+vs html5
+https://www.w3schools.com/html/html5_new_elements.asp
+比如写form就会变成
+<header
+
+copy a website 只需要 developer source - view source
+
+w3school test:
+HTML: Hyper Text Markup Language
+Which character is used to indicate an end tag? /
+How can you open a link in a new tab/browser window?
+    <a href="url" target="_blank">  
+Which of these elements are all <table> elements?
+    <table><tr><td
+What is the correct HTML for making a text area?
+    <textarea>
+What is the correct HTML for inserting a background image?
+    <body style="background-image:url(background.gif)">  
+An <iframe> is used to display a web page within a web page.
+<alt> alternative 比如图片如果不能显示 那么替代的文字是啥
+Which doctype is correct for HTML5? 
+    还是<!DOCTYPE html>哦
+<video> <audio>
+The HTML global attribute, "contenteditable" is used to: Specify whether the content of an element should be editable or not  
+
+In HTML, onblur and onfocus are: Event attributes 
+Graphics defined by SVG is in which format? XML
+The HTML <canvas> element is used to:draw graphics
+In HTML, which attribute is used to specify that an input field must be filled out? 
+    required 这就是字面意思 不要怕题目多
+Which input type defines a slider control?
+    range
+Which HTML element is used to display a scalar measurement within a range?
+    <meter>
+<aside>
+
+看到喜欢的css 可以直接在右击inspect 就会自动在developer tool里头显示出他的css文件
+
+老师安利了css tricks网站. https://css-tricks.com/
+尤其是memu - css almanac
+可以去paletton.com上头看颜色
